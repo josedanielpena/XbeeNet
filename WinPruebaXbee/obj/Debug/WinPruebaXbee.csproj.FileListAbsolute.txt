@@ -1,0 +1,22 @@
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\WinPruebaXbee.exe
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\WinPruebaXbee.pdb
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.Properties.Resources.resources
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.csproj.GenerateResource.Cache
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.exe
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.pdb
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.Form1.resources
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\API_Xbee.dll
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\API_Xbee.pdb
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.exe
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.pdb
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\WinPruebaXbee.exe
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\WinPruebaXbee.pdb
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\API_Xbee.dll
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\API_Xbee.pdb
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.Form1.resources
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.Properties.Resources.resources
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\obj\Debug\WinPruebaXbee.csproj.GenerateResource.Cache
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\CommUART.dll
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\WinPruebaXbee\bin\Debug\CommUART.pdb

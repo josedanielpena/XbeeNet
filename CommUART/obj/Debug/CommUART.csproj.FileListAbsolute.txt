@@ -1,0 +1,5 @@
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\CommUART\bin\Debug\CommUART.dll
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\CommUART\bin\Debug\CommUART.pdb
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\CommUART\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\CommUART\obj\Debug\CommUART.dll
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\CommUART\obj\Debug\CommUART.pdb

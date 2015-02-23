@@ -1,0 +1,10 @@
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\bin\Debug\API_Xbee.dll
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\bin\Debug\API_Xbee.pdb
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\obj\Debug\API_Xbee.dll
+C:\Users\Jose Daniel\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\obj\Debug\API_Xbee.pdb
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\bin\Debug\API_Xbee.dll
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\bin\Debug\API_Xbee.pdb
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\obj\Debug\API_Xbee.dll
+C:\Users\Equipo\Documents\Visual Studio 2008\Projects\WinPruebaXbee\API_Xbee\obj\Debug\API_Xbee.pdb
